@@ -1,0 +1,6 @@
+@WebApplicationMillenium_HostAddress = http://localhost:5077
+
+GET {{WebApplicationMillenium_HostAddress}}/weatherforecast2/
+Accept: application/json
+
+###
